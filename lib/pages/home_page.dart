@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> {
                         color: Colors.deepPurple,
                         borderRadius: BorderRadius.circular(12),
                       ),
-                      height: 100,
+                      height: 110,
                       width:100,
                     ),
 
